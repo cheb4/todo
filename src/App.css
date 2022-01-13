@@ -1,0 +1,16 @@
+/* .webpage{
+  display: grid;
+}
+form{
+  display: grid;
+}
+.note{
+  border: 2px solid black;
+  display: grid;
+  align-items: center;
+
+} */
+#root{
+  display: grid;
+  justify-items: center;
+}
